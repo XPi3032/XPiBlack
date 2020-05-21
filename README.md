@@ -1,19 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/XPi3032/XPiBlack/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+I intend to help the developers of pi-hole and other ad-blocking, malware-blocking, tracker-blocking and more pieces of software to burn up the fishy areas of the Internet.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### My Lists
 
-```markdown
-Syntax highlighted code block
+I have a couple categories for lists: Suspicious, advertising, malicious, pornography, and even tracking. 
 
-# Header 1
 ## Header 2
-### Header 3
+
+Malicious Lists // Domains Bearing the Bitter Fruit of Malware
 
 - Bulleted
 - List
