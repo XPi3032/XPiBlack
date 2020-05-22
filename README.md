@@ -1,12 +1,10 @@
-## Welcome!
-
-
+Hello and welcome!
 
 I intend to help the developers of pi-hole and other ad-blocking, malware-blocking, tracker-blocking and more pieces of software to burn up the fishy areas of the Internet.
 
-### My Lists
-
 I have a couple categories for lists: Suspicious, advertising, malicious, pornography, even tracking, and more.
+Not all of these lists are mine. The lists from ionized-bricks.pinetmedia.com are my own blocklists and are maintained by me personally.
+
 
 ## Malicious Lists // Domains Bearing the Bitter Fruit of Malware
 
@@ -28,6 +26,7 @@ https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
 https://urlhaus.abuse.ch/downloads/hostfile/
 ```
 
+
 ## Advertising Lists // Domains Who Want Your Money
 
 ```Markdown
@@ -41,6 +40,7 @@ https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 ```
 
+
 ## Tracking Lists // Domains Who Want Your Data
 
 ```Markdown
@@ -53,6 +53,7 @@ https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 ```
 
+
 ## Pornographic Sites List // It's wrong, wrong, wrong... 
 
 ```Markdown
@@ -60,12 +61,14 @@ https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists
 https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
 ```
 
+
 ## YouTube Advertisements // Doesn't Always Work
 
 ```Markdown
 https://raw.githubusercontent.com/HenningVanRaumle/pihole-ytadblock/master/ytadblock.txt
 https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlist.txt
 ```
+
 
 ## Browser Hosts // also contains Coin Miner Blocklists
 
@@ -77,6 +80,14 @@ https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts_optional
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 ```
 
+
+# Whitelisting
+
+Opposite of black: white. Curated whitelists are my specialty. I can assist you in the whitelist department [here](http://ionized-bricks.pinetmedia.com/whitelist.txt).
+
+
 ### Support or Contact
 
 Having trouble with the blocklists? [Contact support](https://support.pinetmedia.com) and we’ll help you sort it out.
+
+[have a nice day.](https://github.com/XPi3032/)
