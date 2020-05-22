@@ -10,9 +10,24 @@ I have a couple categories for lists: Suspicious, advertising, malicious, pornog
 
 ## Malicious Lists // Domains Bearing the Bitter Fruit of Malware
 
-
-- Bulleted
-- List
+```Markdown
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
+https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+https://mirror1.malwaredomains.com/files/justdomains
+https://v.firebog.net/hosts/Prigent-Crypto.txt
+https://v.firebog.net/hosts/Prigent-Malware.txt
+https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
+https://www.malwaredomainlist.com/hostslist/hosts.txt
+https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
+https://phishing.army/download/phishing_army_blocklist_extended.txt
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+https://v.firebog.net/hosts/Shalla-mal.txt
+https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
+https://urlhaus.abuse.ch/downloads/hostfile/
+https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt
+https://v.firebog.net/hosts/Airelle-hrsk.txt
 
 **Bold** and _Italic_ and `Code` text
 
