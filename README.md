@@ -8,15 +8,11 @@ I intend to help the developers of pi-hole and other ad-blocking, malware-blocki
 
 I have a couple categories for lists: Suspicious, advertising, malicious, pornography, and even tracking. 
 
-## Header 2
+## Malicious Lists // Domains Bearing the Bitter Fruit of Malware
 
-Malicious Lists // Domains Bearing the Bitter Fruit of Malware
 
 - Bulleted
 - List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
