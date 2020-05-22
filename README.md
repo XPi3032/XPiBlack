@@ -29,9 +29,6 @@ https://urlhaus.abuse.ch/downloads/hostfile/
 https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt
 https://v.firebog.net/hosts/Airelle-hrsk.txt
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
