@@ -83,7 +83,7 @@ https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 
 # Whitelisting
 
-Opposite of black: white. Curated whitelists are my specialty. I can assist you in the whitelist department [here](http://ionized-bricks.pinetmedia.com/whitelist.txt).
+Opposite of black: white. Curated whitelists are my specialty. I can assist you in the whitelist department [here](xpi3032.github.io/ionized-bricks/hosts/whitelisting/whitelist.txt).
 
 
 ### Support or Contact
