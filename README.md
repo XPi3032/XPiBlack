@@ -90,7 +90,7 @@ https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 
 # Whitelisting
 
-Opposite of black: white. Curated whitelists are my specialty. I can assist you in the whitelist department [here](xpi3032.github.io/ionized-bricks/hosts/whitelisting/whitelist.txt).
+Opposite of black: white. Curated whitelists are my specialty. I can assist you in the whitelist department [here](http://whitelist.pinetmedia.com).
 
 
 ### Support or Contact
