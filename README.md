@@ -88,6 +88,14 @@ https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 ```
 
 
+## Spotify Advertisements // Music Ads
+
+```Markdown
+https://raw.githubusercontent.com/XPi3032/ionized-bricks/master/hosts/spotifyads-justdomains.txt
+https://raw.githubusercontent.com/XPi3032/ionized-bricks/master/hosts/spotifyads.txt
+```
+
+
 # Whitelisting
 
 Opposite of black: white. Curated whitelists are my specialty. I can assist you in the whitelist department [here](http://whitelist.pinetmedia.com).
