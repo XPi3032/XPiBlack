@@ -67,6 +67,7 @@ https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists
 ```Markdown
 https://raw.githubusercontent.com/HenningVanRaumle/pihole-ytadblock/master/ytadblock.txt
 https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlist.txt
+https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
 ```
 
 
