@@ -94,6 +94,8 @@ https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 ```Markdown
 https://raw.githubusercontent.com/XPi3032/ionized-bricks/master/hosts/spotifyads-justdomains.txt
 https://raw.githubusercontent.com/XPi3032/ionized-bricks/master/hosts/spotifyads.txt
+https://raw.githubusercontent.com/CHEF-KOCH/Spotify-Ad-free/master/filters/Spotify%20Update%20domains.txt
+https://raw.githubusercontent.com/CHEF-KOCH/Spotify-Ad-free/master/filters/Spotify-HOSTS.txt
 ```
 
 
