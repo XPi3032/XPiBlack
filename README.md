@@ -38,6 +38,7 @@ https://v.firebog.net/hosts/Easylist.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
+http://sbc.io/hosts/hosts
 ```
 
 
@@ -59,6 +60,7 @@ https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 ```Markdown
 https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list
 https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
+http://sbc.io/hosts/alternates/porn/hosts
 ```
 
 
