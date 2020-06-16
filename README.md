@@ -1,4 +1,12 @@
-Hello and welcome!
+ ,---.   ,---. _______  .--.   
+ | .-.\  | .-'|__   __|/ /\ \  
+ | |-' \ | `-.  )| |  / /__\ \ 
+ | |--. \| .-' (_) |  |  __  | 
+ | |`-' /|  `--. | |  | |  |)| 
+ /( `--' /( __.' `-'  |_|  (_) 
+(__)    (__)        
+ATTENTION this project is in Beta 
+# Hello and welcome!
 
 I intend to help the developers of pi-hole and other ad-blocking, malware-blocking, tracker-blocking and more pieces of software to burn up the fishy areas of the Internet.
 
