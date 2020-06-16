@@ -99,6 +99,11 @@ https://raw.githubusercontent.com/XPi3032/ionized-bricks/master/hosts/spotifyads
 https://raw.githubusercontent.com/CHEF-KOCH/Spotify-Ad-free/master/filters/Spotify%20Update%20domains.txt
 https://raw.githubusercontent.com/CHEF-KOCH/Spotify-Ad-free/master/filters/Spotify-HOSTS.txt
 https://raw.githubusercontent.com/vincentkenny01/spotblock/master/black.list
+https://raw.githubusercontent.com/root-host/Spotify-AdBlock/master/domains2
+https://raw.githubusercontent.com/XPi3032/ionized-bricks/master/hosts/spotifyads-newlist.txt
+https://raw.githubusercontent.com/XPi3032/ionized-bricks/master/hosts/spotblock-evenmore.txt
+https://raw.githubusercontent.com/XPi3032/ionized-bricks/master/hosts/evenmorer.txt
+http://ionized-bricks.pinetmedia.com/hosts/spotmore.txt
 ```
 
 
